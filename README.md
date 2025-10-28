@@ -170,8 +170,8 @@ o	Каждая атака — состояние, переход зависит 
 
 
 ССЫЛКИ
-Human Character Dummy | Characters | Unity Asset Store
-Mixamo
-Newsfeed - Sketchfab
-Newsfeed - Sketchfab
+[Human Character Dummy | Characters | Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/humanoids/humans/human-character-dummy-178395)
+[Mixamo](https://www.mixamo.com/#/)
+[Newsfeed - Sketchfab](https://sketchfab.com/3d-models/arena-fcd68db308a349ec8cb42641376262c8)
+[Newsfeed - Sketchfab](https://sketchfab.com/3d-models/arena-fcd68db308a349ec8cb42641376262c8)
 То или иное решение во время разработки могут быть мною объяснены.
