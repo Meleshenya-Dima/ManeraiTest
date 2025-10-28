@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dream\\Testapp\\TestUnity\\ManeraiTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8496AA0-1DC6-EED8-E5FC-8EE1416CA58C}|Assembly-CSharp.csproj|d:\\dream\\testapp\\testunity\\maneraitest\\assets\\scripts\\player\\charactercontrollermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8496AA0-1DC6-EED8-E5FC-8EE1416CA58C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\charactercontrollermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8496AA0-1DC6-EED8-E5FC-8EE1416CA58C}|Assembly-CSharp.csproj|d:\\dream\\testapp\\testunity\\maneraitest\\assets\\scripts\\player\\playermovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8496AA0-1DC6-EED8-E5FC-8EE1416CA58C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovementController.cs",
+              "DocumentMoniker": "D:\\Dream\\Testapp\\TestUnity\\ManeraiTest\\Assets\\Scripts\\Player\\PlayerMovementController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovementController.cs",
+              "ToolTip": "D:\\Dream\\Testapp\\TestUnity\\ManeraiTest\\Assets\\Scripts\\Player\\PlayerMovementController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:45:24.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterControllerMovement.cs",
+              "DocumentMoniker": "D:\\Dream\\Testapp\\TestUnity\\ManeraiTest\\Assets\\Scripts\\Player\\CharacterControllerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CharacterControllerMovement.cs",
+              "ToolTip": "D:\\Dream\\Testapp\\TestUnity\\ManeraiTest\\Assets\\Scripts\\Player\\CharacterControllerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CharacterControllerMovement.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:44:59.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

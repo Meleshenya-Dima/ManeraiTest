@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69e389721ffb4c344943c1fbaa726299, type: 3}
+  m_Name: Punch_L
+  m_EditorClassIdentifier: 
+  animationTrigger: Punch_L
+  duration: 0.8
+  hitWindowStart: 0.5
+  hitWindowEnd: 0.8
+  damage: 20
+  hitForce: 5
+  hitVfxPrefab: {fileID: 8359298921267239135, guid: e2911bcc082bc8b4faba464b9f27e896, type: 3}
+  hitSfx: {fileID: 8300000, guid: 43e1c04dcaa23124cbf5d9f715548236, type: 3}
